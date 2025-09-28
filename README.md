@@ -4,8 +4,6 @@
 
 SafeSea is a company specialized in providing entropy base on natural forces ( the sea ) Random Number Generation, or RNG, is a key component to applications that benefit from true randomness. 
 
-- Random Number Generator (dRNG) that will change the financial, gambling, online gaming, and IOT industry by providing the fastest, most secure and easily verifiable service, ..
-
 This is result of Dieharder statistical test suite for Random Number Generator (RNG) that apply to safeSea generated RNG List    
 
 # Diehard Statistical Test Suite
